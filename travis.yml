@@ -1,5 +1,0 @@
-language: JAVA
-services:
-  - redis-server
-  env:
-  - DB=redis
